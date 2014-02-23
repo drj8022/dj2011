@@ -1,4 +1,5 @@
 dj2011
 ======
 
-Yes kids, we used to do it like this
+Old, but not oldest version of my personal site.
+Yes kids, we used to do it like this.
