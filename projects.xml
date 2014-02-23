@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<projects>
+	<project href="/" title="Home">
+			<div id="filters">
+				<h4>Filter PLZ:</h4>
+				<ul>
+					<li id="ia">Information Architecture</li>
+					<li id="systems">Systems Design</li>
+					<li id="development">Web Development</li>
+					<li id="logo">Logo Design</li>
+					<li id="web">Web Design</li>
+					<li id="visualization">Data Visualization</li>
+				</ul>
+			</div>
+
+			<div id="projects">
+				<div class="project" name="systems">
+					<a href="/sound-machine"><h2>The Sound Machine</h2><img src="img/thumbs/sound-machine.jpg" alt="The Sound Machine" /></a>
+				</div>
+				<div class="project" name="development">
+					<a href="/chestnut-hill-realty"><h2>Chestnut Hill Realty</h2><img src="img/thumbs/chestnut-hill-realty.jpg" alt="Chestnut Hill Realty" /></a>
+				</div>
+				<div class="project" name="ia">
+					<a href="/locast-civic-media"><h2>Locast Civic Media</h2><img src="img/thumbs/locast-civic-media.jpg" alt="Locast Civic Media" /></a>
+				</div>
+				<div class="project" name="web ia development">
+					<a href="/sustainable-connected-home"><h2>The Sustainable Connected Home</h2><img src="img/thumbs/sustainable-connected-home.jpg" alt="The Sustainable Connected Home" /></a>
+				</div>
+				<div class="project" name="systems">
+					<a href="/conversation-fountain"><h2>The Conversation Fountain</h2><img src="img/thumbs/conversation-fountain.jpg" alt="The Conversation Fountain" /></a>
+				</div>
+				<div class="project" name="development">
+					<a href="/boston-modern-orchestra-project"><h2>Boston Modern Orchestra Project</h2><img src="img/thumbs/boston-modern-orchestra-project.jpg" alt="Boston Modern Orchestra Project" /></a>
+				</div>
+				<div class="project" name="visualization">
+					<a href="/year-city-boston"><h2>A Year in the City of Boston</h2><img src="img/thumbs/year-city-boston.jpg" alt="A Year in the City of Boston" /></a>
+				</div>
+				<div class="project" name="ia">
+					<a href="/harvard-business-school"><h2>Harvard Business School</h2><img src="img/thumbs/harvard-business-school.jpg" alt="Harvard Business School" /></a>
+				</div>
+				<div class="project" name="logo">
+					<a href="/navia-systems"><h2>Navia Systems</h2><img src="img/thumbs/navia-systems.jpg" alt="Navia Systems" /></a>
+				</div>
+				<div class="project" name="systems web">
+					<a href="/garden-city"><h2>Garden City</h2><img src="img/thumbs/garden-city-alt.jpg" alt="Garden City" /></a>
+				</div>
+				<div class="project" name="logo">
+					<a href="/green-link"><h2>Green Link</h2><img src="img/thumbs/green-link.jpg" alt="Green Link" /></a>
+				</div>
+				<div class="project" name="development">
+					<a href="/mit-mobile-experience-lab"><h2>MIT Mobile Experience Lab</h2><img src="img/thumbs/mit-mobile-experience-lab.jpg" alt="MIT Mobile Experience Lab" /></a>
+				</div>
+			</div>
+	</project>
+
+	<project href="/sustainable-connected-home" title="The Sustainable Connected Home">
+		<div id="project">
+			<div class="jcarousel-control"> 
+				<a href="#" id="link1">1</a> 
+				<a href="#" id="link2">2</a> 
+				<a href="#" id="link3">3</a> 
+				<a href="#" id="link4">4</a> 
+				<a href="#" id="link5">5</a> 
+			</div>
+			<ul id="images" class="jcarousel-skin-tango">
+				<li><img src="img/book/sustainable-connected-home-00.jpg" alt="The Sustainable Connected Home" width="620px" height="465px" /></li>
+				<li><img src="img/book/sustainable-connected-home-01.jpg" alt="The Sustainable Connected Home" width="620px" height="465px" /></li>
+				<li><img src="img/book/sustainable-connected-home-03.gif" alt="The Sustainable Connected Home" width="620px" height="465px" /></li>
+				<li><img src="img/book/sustainable-connected-home-04.gif" alt="The Sustainable Connected Home" width="620px" height="465px" /></li>
+				<li><img src="img/book/sustainable-connected-home-05.jpg" alt="The Sustainable Connected Home" width="620px" height="465px" /></li>
+				<!--li><img src="img/book/sustainable-connected-home-02.jpg" alt="The Sustainable Connected Home" width="620px" height="465px" /></li-->
+			</ul>
+			<div class="content">
+				<h1>The Sustainable Connected Home</h1>
+				<p class="offsite"><a href="http://mobile.mit.edu/fbk/" class="offsite" target="_blank">http://mobile.mit.edu/fbk/</a></p>
+				<div class="body">
+					<p>The goal of the Sustainable Connected Home is to conduct advanced research on renewable energy systems, social sustainability, and connected information systems.</p>
+					<p>I knew this site would need to perform two functions. It would have to look elegant and deliver information quickly, as it would be shown to individuals with big budgets and small amounts of time. Additionally, a variety of researchers from different disciplines would be contributing new content, each with a different level of comfort with the web.</p>
+					<p>I chose to use Wordpress as a CMS for its clean looking administrative pages, and easy to develop themes. The final site allowed ease of use for contributors, while maintaining a sleek look.</p>
+				</div>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+		</div>
+	</project>
+
+	<project href="/year-city-boston" title="A Year in the City of Boston">
+		<div id="project">
+			<div class="jcarousel-control"> 
+				<a href="#" id="link1">1</a> 
+				<a href="#" id="link2">2</a> 
+				<a href="#" id="link3">3</a> 
+				<a href="#" id="link4">4</a> 
+			</div>
+			<ul id="images" class="jcarousel-skin-tango">
+				<li><img src="img/book/year-city-boston-00.jpg" alt="A Year in the City of Boston" width="620px" height="465px" /></li>
+				<li><img src="img/book/year-city-boston-01.jpg" alt="A Year in the City of Boston" width="620px" height="465px" /></li>
+				<li><img src="img/book/year-city-boston-03.jpg" alt="A Year in the City of Boston" width="620px" height="465px" /></li>
+				<li><img src="img/book/year-city-boston-02.jpg" alt="A Year in the City of Boston" width="620px" height="465px" /></li>
+			</ul>
+			<div class="content">
+				<h1>A Year in the City of Boston</h1>
+				<div class="body">
+					<p>Created at The Massachusetts College of Art and Design, this poster maps weather patterns against sports and crime data for the city of Boston during 2007. I doodled the basic design in a few minutes, and then painstakingly translated the data into Illustrator by hand.</p>
+					<p>I really enjoyed the challenge of turning these piles of abstract data into something that people could view quickly, and instantly grasp the larger meaning.</p>
+					<p>It was interesting to see the spike in crime during the (lost) super bowl, and the dip when the Red Sox won the world series. Was weather the cause? Fans? Maybe just circumstantial? The fun part of this project is that the viewer is challenged to be the judge.</p>
+				</div>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+		</div>
+	</project>
+
+    <project href="/sound-machine" title="The Sound Machine">
+		<div id="project">
+			<div class="jcarousel-control"> 
+				<a href="#" id="link1">1</a> 
+				<a href="#" id="link2">2</a> 
+				<a href="#" id="link3">3</a> 
+				<a href="#" id="link4">4</a> 
+				<a href="#" id="link5">5</a> 
+			</div>
+			<ul id="images" class="jcarousel-skin-tango">
+				<li><img src="img/book/sound-machine-00.jpg" alt="The Sound Machine" width="620px" height="465px" /></li>
+				<li><iframe src="http://player.vimeo.com/video/5351002?title=0&amp;byline=0&amp;portrait=0" width="620" height="465" frameborder="0"></iframe></li>
+				<li><img src="img/book/sound-machine-01.jpg" alt="The Sound Machine" width="620px" height="465px" /></li>
+				<li><img src="img/book/sound-machine-02.jpg" alt="The Sound Machine" width="620px" height="465px" /></li>
+				<li><img src="img/book/sound-machine-03.jpg" alt="The Sound Machine" width="620px" height="465px" /></li>
+			</ul>
+			<div class="content">
+				<h1>The Sound Machine</h1>
+				<div class="body">
+					<p>The goal of the Sound Machine is to give people with limited or no musical background the experience of being a performer. The Sound Machine is designed to challenge users to communicate in modes, non-verbally for example, that they may be unfamiliar or uncomfortable with. Screens are omitted in an attempt to push the computer into the background, allowing participants the freedom to focus on their fellow performers.</p>
+					<p>I love music, but I am not a musician, so this project really excited me. I have always enjoyed watching the dynamics that occur between performing musicians. I wondered if such communication, informed by those professional individuals knowledge of music, would be possible to replicate using non-musicians. This project also presented itself as a great platform for moving away from screen-based media and into physical interfaces.</p>
+					<p>For me, that moment of interest was the litmus test for the project's ultimate success. It was great to see my passion rewarded when a group of friends got together and shared a smile at the experience. It was even more rewarding to see groups of strangers using the machine to form an impromptu community.</p>
+				</div>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+		</div>
+    </project>
+
+    <project href="/mit-mobile-experience-lab" title="MIT Mobile Experience Lab">
+		<div id="project">
+			<div class="jcarousel-control"> 
+				<a href="#" id="link1">1</a> 
+				<a href="#" id="link2">2</a> 
+				<a href="#" id="link3">3</a> 
+				<a href="#" id="link4">4</a> 
+				<a href="#" id="link5">5</a> 
+			</div>
+			<ul id="images" class="jcarousel-skin-tango">
+				<li><img src="img/book/mit-mobile-experience-lab-00.jpg" alt="MIT Mobile Experience Lab" width="620px" height="465px" /></li>
+				<li><img src="img/book/mit-mobile-experience-lab-01.jpg" alt="MIT Mobile Experience Lab" width="620px" height="465px" /></li>
+				<li><img src="img/book/mit-mobile-experience-lab-02.jpg" alt="MIT Mobile Experience Lab" width="620px" height="465px" /></li>
+				<li><img src="img/book/mit-mobile-experience-lab-03.jpg" alt="MIT Mobile Experience Lab" width="620px" height="465px" /></li>
+				<li><img src="img/book/mit-mobile-experience-lab-04.jpg" alt="MIT Mobile Experience Lab" width="620px" height="465px" /></li>
+			</ul>
+			<div class="content">
+				<h1>MIT Mobile Experience Lab</h1>
+				<p class="offsite"><a href="http://mobile.mit.edu/" class="offsite" target="_blank">http://mobile.mit.edu/</a></p>
+				<div class="body">
+					<p>The MIT Mobile Experience Lab seeks to radically reinvent and creatively design connections between people, information and physical places. I built their site using Drupal, taking Photoshop templates provided by an Interactive agency and doing all the leg work necessary in order to bring this site to life.</p>
+					<p>Although this was a development project, I wound up doing some design work here as well. The templates accounted for only about 60% of the full site. Sometimes I added in full pages, other times I resolved smaller interface issues that were not considered by the designer.</p>
+					<p>Additionally, some of the lab's projects were not formatted for the web. I went through the archives of each project, selecting images that told the story best. What resulted was a smart interface that provides the user with an engaging picture of the research being done at the lab.</p>
+				</div>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+		</div>
+    </project>
+
+    <project href="/locast-civic-media" title="Locast Civic Media">
+		<div id="project">
+			<div class="jcarousel-control"> 
+				<a href="#" id="link1">1</a> 
+				<a href="#" id="link2">2</a> 
+				<a href="#" id="link3">3</a> 
+				<a href="#" id="link4">4</a> 
+				<a href="#" id="link5">5</a> 
+				<a href="#" id="link6">6</a> 
+			</div>
+			<ul id="images" class="jcarousel-skin-tango">
+				<li><img src="img/book/locast-civic-media-00.jpg" alt="Locast Civic Media" width="620px" height="465px" /></li>
+				<li><img src="img/book/locast-civic-media-04.jpg" alt="Locast Civic Media" width="620px" height="465px" /></li>
+				<li><img src="img/book/locast-civic-media-05.jpg" alt="Locast Civic Media" width="620px" height="465px" /></li>
+				<li><img src="img/book/locast-civic-media-06.jpg" alt="Locast Civic Media" width="620px" height="465px" /></li>
+				<li><img src="img/book/locast-civic-media-07.jpg" alt="Locast Civic Media" width="620px" height="465px" /></li>
+				<li><img src="img/book/locast-civic-media-03.jpg" alt="Locast Civic Media" width="302px" height="465px" /></li>
+			</ul>
+			<div class="content">
+				<h1>Locast Civic Media</h1>
+				<p class="offsite"><a href="http://locast.mit.edu/civic/" class="offsite" target="_blank">locast.mit.edu/civic/</a></p>
+				<div class="body">
+					<p>Locast is a flexible location based platform that combines distributed web and mobile applications to create hyperlocal experiences. The project was developed by a team of 12 at the MIT Mobile Experience Lab in 2009.</p>
+					<p>My role on this project was to develop the web based information architecture. We initially put together some basic user profiles, which helped us decide on which experiences to emphasize for the web. I tried experimenting with some different ways to visualize popular content using thickness of line and color.</p>
+					<p>We simply didn’t have time to refine (or even include!) all the features we hoped for. But the thoroughness of the wireframes allowed the developers to concentrate on their jobs, instead of filling in incomplete designs.</p>
+				</div>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+		</div>
+    </project>
+
+    <project href="/chestnut-hill-realty" title="Chestnut Hill Realty">
+		<div id="project">
+			<div class="jcarousel-control"> 
+				<a href="#" id="link1">1</a> 
+				<a href="#" id="link2">2</a> 
+				<a href="#" id="link3">3</a> 
+				<a href="#" id="link4">4</a> 
+				<a href="#" id="link5">5</a> 
+			</div>
+			<ul id="images" class="jcarousel-skin-tango">
+				<li><img src="img/book/chestnut-hill-realty-05.jpg" alt="Chestnut Hill Realty" width="620px" height="465px" /></li>
+				<li><img src="img/book/chestnut-hill-realty-03.jpg" alt="Chestnut Hill Realty" width="620px" height="465px" /></li>
+				<li><img src="img/book/chestnut-hill-realty-04.jpg" alt="Chestnut Hill Realty" width="620px" height="465px" /></li>
+				<li><img src="img/book/chestnut-hill-realty-07.jpg" alt="Chestnut Hill Realty" width="620px" height="465px" /></li>
+				<li><img src="img/book/chestnut-hill-realty-00.jpg" alt="Chestnut Hill Realty" width="620px" height="465px" /></li>
+				<!--li><img src="img/book/chestnut-hill-realty-01.jpg" alt="Chestnut Hill Realty" width="620px" height="465px" /></li-->
+				<!--li><img src="img/book/chestnut-hill-realty-02.jpg" alt="Chestnut Hill Realty" width="620px" height="465px" /></li-->
+				<!--li><img src="img/book/chestnut-hill-realty-06.jpg" alt="Chestnut Hill Realty" width="620px" height="465px" /></li-->
+			</ul>
+			<div class="content">
+				<h1>Chestnut Hill Realty</h1>
+				<p class="offsite">
+					<a href="http://chr-apartments.com/" class="offsite" target="_blank">http://chr-apartments.com/</a>
+					<a href="http://chestnuthillrealty.com/" class="offsite" target="_blank">http://chestnuthillrealty.com/</a>
+				</p>
+				<div class="body">
+					<p>Chestnut Hill Realty is one of New England’s leading full service real estate companies. CHR needed a better way of displaying their vast array of apartment, corporate, and development rentals and opportunities.</p>
+					<p>The Mediumbold team worked closely with CHR to provide information architecture, design, development and support services. As lead front-end developer, it was my role to take assets created by the rest of the team and turn them into a fully functioning site.</p>
+					<p>I worked closely with team members and clients to manage expectations and ensure that they received an engaging product they were confident in using.</p>
+				</div>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+		</div>
+    </project>
+
+    <project href="/boston-modern-orchestra-project" title="Boston Modern Orchestra Project">
+		<div id="project">
+			<div class="jcarousel-control"> 
+				<a href="#" id="link1">1</a> 
+				<a href="#" id="link2">2</a> 
+				<a href="#" id="link3">3</a> 
+				<a href="#" id="link4">4</a> 
+				<a href="#" id="link5">5</a> 
+			</div>
+			<ul id="images" class="jcarousel-skin-tango">
+				<li><img src="img/book/boston-modern-orchestra-project-00.jpg" alt="Boston Modern Orchestra Project" width="620px" height="465px" /></li>
+				<li><img src="img/book/boston-modern-orchestra-project-04.jpg" alt="Boston Modern Orchestra Project" width="620px" height="465px" /></li>
+				<li><img src="img/book/boston-modern-orchestra-project-01.jpg" alt="Boston Modern Orchestra Project" width="620px" height="465px" /></li>
+				<li><img src="img/book/boston-modern-orchestra-project-02.jpg" alt="Boston Modern Orchestra Project" width="620px" height="465px" /></li>
+				<li><img src="img/book/boston-modern-orchestra-project-03.jpg" alt="Boston Modern Orchestra Project" width="620px" height="465px" /></li>
+			</ul>
+			<div class="content">
+				<h1>Boston Modern Orchestra Project</h1>
+				<p class="offsite"><a href="http://bmop.org" class="offsite" target="_blank">http://bmop.org</a></p>
+				<div class="body">
+					<p>The Boston Modern Orchestra Project (BMOP) is one of the few professional orchestras in the United States dedicated exclusively to performing and recording music of the twentieth and twenty-first centuries. Their stated mission is to explore the evolution of the music formerly known as classical.</p>
+					<p>BMOP commissioned this site redevelopment with two primary needs in mind. First, they had managed their ticketing and sales office by hand and really needed to streamline that process. Secondly, they had a huge amount of archived content they wished to share.</p>
+					<p>I took advantage of Drupal's excellent Ubercart module to build BMOP's online storefront. Other modules helped me quickly construct a site where each piece of content is tightly integrated with the others, creating a product that increased BMOP's capacity while showcasing their impressive collection of material.</p>
+				</div>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+		</div>
+    </project>
+
+    <project href="/harvard-business-school" title="Harvard Business School">
+		<div id="project">
+			<div class="jcarousel-control"> 
+				<a href="#" id="link1">1</a> 
+				<a href="#" id="link2">2</a> 
+				<a href="#" id="link3">3</a> 
+				<a href="#" id="link4">4</a> 
+				<a href="#" id="link5">5</a> 
+			</div>
+			<ul id="images" class="jcarousel-skin-tango">
+				<li><img src="img/book/harvard-business-school-04.jpg" alt="Harvard Business School" width="620px" height="465px" /></li>
+				<li><img src="img/book/harvard-business-school-00.jpg" alt="Harvard Business School" width="620px" height="465px" /></li>
+				<li><img src="img/book/harvard-business-school-01.gif" alt="Harvard Business School" width="620px" height="465px" /></li>
+				<li><img src="img/book/harvard-business-school-02.gif" alt="Harvard Business School" width="620px" height="465px" /></li>
+				<li><img src="img/book/harvard-business-school-03.gif" alt="Harvard Business School" width="620px" height="465px" /></li>
+			</ul>
+			<div class="content">
+				<h1>Harvard Business School</h1>
+				<p class="offsite"><a href="http://www.alumni.hbs.edu/giving/" class="offsite" target="_blank">http://www.alumni.hbs.edu/giving/</a></p>
+				<div class="body">
+					<p>The Harvard Business School's giving site had been neglected to the point where staff felt uneasy sending alumni there. They feared the older styling and cluttered appearance would scare away potential donors.</p>
+					<p>With two other team members I went to work interviewing both staff and alumni donors. We then complied a list of all HBS content, and cross referenced that with information gained from the interviews. This let us know what content we could keep, and what new content was needed.</p>
+					<p>By utilizing this research, we were able to put together detailed sitemaps and wireframes. Finally we created exciting visual designs and offered the technical assistance to bring the ailing site back to life.</p>
+				</div>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+		</div>
+    </project>
+
+    <project href="/navia-systems" title="Navia Systems">
+		<div id="project">
+			<div class="jcarousel-control"> 
+				<a href="#" id="link1">1</a> 
+				<a href="#" id="link2">2</a> 
+				<a href="#" id="link3">3</a> 
+				<a href="#" id="link4">4</a> 
+				<!--a href="#" id="link5">5</a--> 
+			</div>
+			<ul id="images" class="jcarousel-skin-tango">
+				<li><img src="img/book/navia-systems-00.gif" alt="Navia Systems" width="620px" height="465px" /></li>
+				<li><img src="img/book/navia-systems-02.jpg" alt="Navia Systems" width="620px" height="465px" /></li>
+				<li><img src="img/book/navia-systems-01.jpg" alt="Navia Systems" width="620px" height="465px" /></li>
+				<li><img src="img/book/navia-systems-03.jpg" alt="Navia Systems" width="620px" height="465px" /></li>
+				<!--li><img src="img/book/navia-systems-04.jpg" alt="Navia Systems" width="620px" height="465px" /></li-->
+			</ul>
+			<div class="content">
+				<h1>Navia Systems</h1>
+				<div class="body">
+					<p>Several MIT alumni asked me to develop a logotype for their new business. During our initial meeting their product was described to me as: “software that seeks out random patterns in data, random like flipping a coin.”</p>
+					<p>I did some research into the word navia, and found it had many historical nautical characteristics. I tried several of these motifs, but I felt none were as successful as successful a brand metaphor as the movement of a coin flip.</p>
+					<p>Ultimately both myself and the client were happy with the outcome of this project. The clean lines of the typeface are a nice compliment to the Gestalt coin progression.</p>
+				</div>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+		</div>
+    </project>
+
+    <project href="/conversation-fountain" title="The Conversation Fountain">
+		<div id="project">
+			<div class="jcarousel-control"> 
+				<a href="#" id="link1">1</a> 
+				<a href="#" id="link2">2</a> 
+				<a href="#" id="link3">3</a> 
+				<a href="#" id="link4">4</a> 
+				<a href="#" id="link5">5</a> 
+				<a href="#" id="link6">6</a> 
+				<a href="#" id="link7">7</a> 
+			</div>
+			<ul id="images" class="jcarousel-skin-tango">
+				<li><img src="img/book/conversation-fountain-06.jpg" alt="The Conversation Fountain" width="620px" height="465px" /></li>
+				<li><img src="img/book/conversation-fountain-05.jpg" alt="The Conversation Fountain" width="620px" height="465px" /></li>
+				<li><img src="img/book/conversation-fountain-00.jpg" alt="The Conversation Fountain" width="620px" height="465px" /></li>
+				<li><img src="img/book/conversation-fountain-01.jpg" alt="The Conversation Fountain" width="620px" height="465px" /></li>
+				<li><img src="img/book/conversation-fountain-02.jpg" alt="The Conversation Fountain" width="620px" height="465px" /></li>
+				<li><img src="img/book/conversation-fountain-03.jpg" alt="The Conversation Fountain" width="620px" height="465px" /></li>
+				<li><img src="img/book/conversation-fountain-04.jpg" alt="The Conversation Fountain" width="620px" height="465px" /></li>
+			</ul>
+			<div class="content">
+				<h1>The Conversation Fountain</h1>
+				<p class="offsite"><a href="http://danjohnston.com/swf/conversation-fountain.swf" class="onsite flash"  title="The Fountain" target="_blank">View the Demo (Flash)</a></p>
+				<div class="body">
+					<p>The Conversation Fountain creates a space where talking to strangers is encouraged. By placing an interactive device within the public space I hope to briefly change passer by into community member.</p>
+					<p>This project resulted from the research I had been doing into gardening and gardeners. How could the shared space of the garden be recontextualized? How could I facilitate a conversation between total strangers?</p>
+					<p>This was a brief scenario project, thinking about what it would be like if a small group of people from different cities could sit down and have a chat. Would this conversation constitute a community? What knowledge would be exchanged? What would people take away about each other from their experience in this scenario?</p>
+				</div>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+		</div>
+    </project>
+
+    <project href="/garden-city" title="Garden City">
+		<div id="project">
+			<div class="jcarousel-control"> 
+				<a href="#" id="link1">1</a> 
+				<a href="#" id="link2">2</a> 
+				<a href="#" id="link3">3</a> 
+				<a href="#" id="link4">4</a> 
+				<a href="#" id="link5">5</a> 
+			</div>
+			<ul id="images" class="jcarousel-skin-tango">
+				<li><img src="img/book/garden-city-00.jpg" alt="Garden City" width="620px" height="465px" /></li>
+				<li><img src="img/book/garden-city-04.gif" alt="Garden City" width="620px" height="465px" /></li>
+				<li><img src="img/book/garden-city-01.jpg" alt="Garden City" width="620px" height="465px" /></li>
+				<li><img src="img/book/garden-city-02.jpg" alt="Garden City" width="620px" height="465px" /></li>
+				<li><img src="img/book/garden-city-03.jpg" alt="Garden City" width="620px" height="465px" /></li>
+			</ul>
+			<div class="content">
+				<h1>Garden City</h1>
+				<div class="body">
+					<p>Garden City connects gardeners from around the world. It is designed to be used by urban gardeners at all skill levels. It is a platform to ask questions and provide answers, or simply share information about past experiences.</p>
+					<p>I became inspired after reading Michael Pollan’s open letter to the president-elect, encouraging him to grow a garden on the south lawn of the White House. Sure, the president can figure this stuff out, but could everyone? I attempted to answer the novice's inevitable question, "Where do I start?"</p>
+					<p>The still shown here attempts to answer that question by visualizing the time and space requirements of a garden. The metaphor of a meal is used to provide a simple to understand starting point.</p>
+					<p>Through the research done on this project I came to realize it wasn’t the garden that held my interest. It was questions dealing with how community is formed, and how experiences are shared between community members.</p>
+				</div>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+		</div>
+    </project>
+
+    <project href="/green-link" title="Green Link">
+		<div id="project">
+			<div class="jcarousel-control"> 
+				<a href="#" id="link1">1</a> 
+				<a href="#" id="link2">2</a> 
+				<a href="#" id="link3">3</a> 
+			</div>
+			<ul id="images" class="jcarousel-skin-tango">
+				<li><img src="img/book/green-link-02.gif" alt="Green Link" width="620px" height="465px" /></li>
+				<li><img src="img/book/green-link-01.jpg" alt="Green Link" width="620px" height="465px" /></li>
+				<li><img src="img/book/green-link-00.gif" alt="Green Link" width="620px" height="465px" /></li>
+			</ul>
+			<div class="content">
+				<h1>Green Link</h1>
+				<div class="body">
+					<p>Green Link was a partnering of the MIT Mobile Experience Lab and the Italian Trade Commission to explore sustainable best practices. A symposium was planned to showcase green developments in home building.</p>
+					<p>I developed the identity shown here as well as some print collateral. Additionally, I created two web sites. The first was a simple piece of brochureware. The second would have been more complex; requiring affordances for users, content creation, and tagging.</p>
+					<p>Unfortunately, after the symposium, there simply wasn't much interest in the Green Link, and the project was cancelled. Still, I like the mark. The childlike shape of a house visible in the negative space contrasts nicely with the machined look of the typeface, Centro Pro.</p>
+				</div>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+		</div>
+    </project>
+
+    <project href="/bio" title="Bio">
+	   	<div id="bio">
+			<div class="text">
+				<h1>About</h1>
+				<p>Hi! My name is Dan. I am interested in using dynamic media to create shared experiences for our increasingly specialized world. I currently work as a front-end developer at a small design agency based in Boston. I've studied Industrial Design at <a href="http://cias.rit.edu/" class="offsite" target="_blank">RIT</a> ('01), and more recently Dynamic Media at <a href="http://www.dynamicmediainstitute.org/" class="offsite" target="_blank">MassArt</a> ('09).</p>
+				<p>Born and raised in Boston I now find myself in Chicago; experiencing all the joys and frustrations moving to a new city brings. Please get in touch if you have a great idea for the next big project, or if you would just like to grab some coffee!</p>
+				<p><h2>About the site</h2>It's dangerous to go alone! I started with <a href="http://html5boilerplate.com/" class="offsite" target="_blank">HTML5 Boilerplate</a>, adding <a href="http://jqueryui.com/" class="offsite" target="_blank">jQuery UI</a> for color animation. Deep linking provided by <a href="http://www.asual.com/jquery/address/" class="offsite" target="_blank">Asual</a>. Images rotated by <a href="http://sorgalla.com/jcarousel/" class="offsite" target="_blank">jCarousel</a>. Headline face <a href="http://www.google.com/webfonts/specimen/Francois+One" class="offsite" target="_blank">Francois One</a> by Vernon Adams. Body face <a href="http://www.google.com/webfonts/specimen/PT+Serif" class="offsite" target="_blank">PT Serif</a> by ParaType.</p>
+				<p>Thank you for reading the website. This text may not be clicked.</p>
+				<p class="back"><a href="#"><span>«</span> Back to projects</a></p>
+			</div>
+	   	</div>
+    </project>
+
+</projects>
